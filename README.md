@@ -2,10 +2,6 @@
 
 QR Codes with identification icons It's made for IOTA and for use with <https://github.com/peterwilli/IOTA-tangle-explorer>, but distributed as a separated module for use in other projects. I did this to try and make this a de-facto standard for sharing IOTA addresses with a QR code.
 
-## Samples
-
-![samples/sample1.png](samples/sample1.png]) ![samples/sample2.png](samples/sample2.png]) ![samples/sample3.png](samples/sample2.png])
-
 ## How to install
 
 In plain HTML, just include the JS file and put in the following code in your HTML file:
@@ -32,3 +28,16 @@ this.qrcode = new IdentiQr(document.getElementById(qr), {
 ```
 
 Replace sample_hash with anything you like to share as QR code. For an IOTA-address, you could do: `{"address":"SLSQPANQAPYJEOUHSHCRDKCWMPCEIHSNHLOKRZACLQUEKUDSYYQBCQNHFWKQALEHPPJHXQXVOQVEWYGJTXEDXGNMLJ","amount":"","message":"","tag":""}`
+
+## Samples
+
+![samples/sample1.png](samples/sample1.png)
+
+![samples/sample2.png](samples/sample2.png)
+
+![samples/sample3.png](samples/sample2.png)
+
+## Thanks to
+
+- Blockies: <https://github.com/ethereum/blockies>
+- QRCodeJS: <https://github.com/davidshimjs/qrcodejs>
