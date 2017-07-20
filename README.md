@@ -4,7 +4,7 @@ QR Codes with identification icons It's made for IOTA and for use with <https://
 
 ## Samples
 
-![samples/sample1.png](sample1.png)
+![samples/sample1.png](samples/sample1.png]) ![samples/sample2.png](samples/sample2.png]) ![samples/sample3.png](samples/sample2.png])
 
 ## How to install
 
