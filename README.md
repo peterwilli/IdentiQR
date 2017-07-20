@@ -35,7 +35,7 @@ Replace sample_hash with anything you like to share as QR code. For an IOTA-addr
 
 ![samples/sample2.png](samples/sample2.png)
 
-![samples/sample3.png](samples/sample2.png)
+![samples/sample3.png](samples/sample3.png)
 
 ## Thanks to
 
